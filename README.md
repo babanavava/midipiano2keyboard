@@ -1,4 +1,4 @@
-# midipiano2keyboard
+# midipiano2keyboard✨
 
 MIDIピアノのキーボードの入力をPCの文字入力用のキーボードの入力に変換するプログラムを作ったのよ✨
 
@@ -39,23 +39,23 @@ midipiano2keyboard.exeのあるフォルダのconfig.iniを上書きすればす
 それぞれどんな配置なのか説明するよ✨
 
 
-### leverless
+### leverless✨
 デフォルトの配置で、WASDが格ゲーのレバーレスコントローラーのように配置されている配置なのよ✨
 
 元々このプログラムはスト6用のプログラムだからこれがデフォルトになっているのよ✨
 ![leverless](/configs/leverless(default)/leverless.png)
 
-### keyboardy_WASD
+### keyboardy_WASD✨
 **leverless**に比べてWASD部分が通常のキーボード風の配置となっていて、元々キーボードを使うゲームがやりやすそうな配置なのよ✨
-![keyboardy_WASD](/configs/keyboardy_WASD/keyboardy_WASD.png)
+![keyboardy_WASD✨](/configs/keyboardy_WASD/keyboardy_WASD.png)
 
-### keyboardy_arrow
+### keyboardy_arrow✨
 矢印キーを使ったゲームがやりやすそうな配置なのよ✨
-![keyboardy_arrow](/configs/keyboardy_arrow/keyboardy_arrow.png)
+![keyboardy_arrow✨](/configs/keyboardy_arrow/keyboardy_arrow.png)
 
-### leverless_arrow
+### leverless_arrow✨
 **leverless**のWASD部分を矢印キーに置き換えた配置なのよ✨
-![leverless_arrow](/configs/leverless_arrow/leverless_arrow.png)
+![leverless_arrow✨](/configs/leverless_arrow/leverless_arrow.png)
 
 ## config.iniの説明よ✨
 上記のキー配置は全てconfig.iniの中に書かれてるから、それを自由に書き換えて君だけのオリジナル配置を作ることもできるのよ✨
@@ -77,5 +77,5 @@ config.iniにない範囲の音名も加えれば足せるから自由に割り�
 ## ライセンスよ✨
 自由に使っていいのよ✨派生してもっといいアプリ作ってもらってもいいのよ✨
 
-## クレジットよ！
-- [pygame_midi_device_detector](https://github.com/babanavava/pygame_midi_device_detector) (https://github.com/babanavava/pygame_midi_device_detector)
+## クレジットよ✨
+- [pygame_midi_device_detector✨](https://github.com/babanavava/pygame_midi_device_detector) (https://github.com/babanavava/pygame_midi_device_detector)
