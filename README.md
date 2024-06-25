@@ -8,7 +8,7 @@ MIDIピアノのキーボードの入力をPCの文字入力用のキーボー�
 
 2. ファイルマネージャーを開きダウンロードした**midipiano2keyboard-win.zip**を選択し「**すべて展開**」を選択して、展開してね✨
 
-3. 使用したいmidiデバイスを使うmidiソフトウェアが起動していないかを確認して、midiキーボードを接続してね✨
+3. 使用したいMIDIデバイスを使うソフトウェアが起動していないかを確認して、MIDIデバイスを接続してね✨
 
 4. midipiano2keyboard-winフォルダ内の**midipiano2keyboard.exe**をダブルクリックして「**WindowsによってPCが保護されました**」と出た場合は[詳細情報](https://github.com/babanavava/midipiano2keyboard/releases)をクリックして、**実行**をクリックしてね✨
 
